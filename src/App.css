@@ -45,7 +45,7 @@
   background-color: white;
   border-radius: 30px;
   width: 60%;
-  height: 890px;
+  height: 1000px;
 }
 .containerHeader {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
@@ -90,7 +90,7 @@
 .containerMain {
   padding: 20px 20px;
   margin-top: 20px;
-  height: 645px;
+  height: 740px;
   border-radius: 30px;
   background-color: rgb(241, 241, 195);
 }
